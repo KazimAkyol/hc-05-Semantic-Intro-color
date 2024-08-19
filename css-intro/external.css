@@ -1,0 +1,43 @@
+
+*{
+    /* border: 2px solid red; */
+}
+
+body{
+    /* background-color: orange; */
+}
+
+h1{
+    color: rgb(150, 200, 040);
+    text-align: center;
+}
+
+li{
+    /* color: blueviolet;
+    list-style-type: none;
+    border: 2px solid;
+    display: inline-block; */
+}
+
+ul{
+    border: 2px solid red;
+    padding: 0;
+    background-color: red;
+    border-radius: 10px;
+}
+
+.item{
+    background-color: burlywood;
+    margin: 5px;
+    display: inline-block;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#people{
+    background-color: olive;
+}
+
+li:hover{
+    background-color: orange;
+}
